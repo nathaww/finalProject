@@ -1,0 +1,11 @@
+// medicine
+export const GET_MEDICINE = "GET_MEDICINE";
+export const DELETE_MEDICINE = "DELETE_MEDICINE";
+export const ADD_MEDICINE = "ADD_MEDICINE";
+export const UPDATE_MEDICINE = "UPDATE_MEDICINE";
+export const GET_SINGLE_MEDICINE = "GET_SINGLE_MEDICINE";
+export const GET_MEDICINE_REQUEST = "GET_MEDICINE_REQUEST";
+export const GET_MEDICINE_SUCCESS = "GET_MEDICINE_SUCCESS";
+export const LOGIN = "LOGIN";
+export const LOADING = "LOADING";
+export const LOADED = "LOADED";
